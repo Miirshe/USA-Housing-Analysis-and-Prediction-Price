@@ -1,0 +1,1 @@
+Welcome to the "USA Housing Analysis and Prediction Price" repository! 🏡📊 This project focuses on exploring and analyzing a dataset containing various attributes related to housing in the USA. The primary goal is to gain insights into the factors influencing housing prices and to build a predictive model for estimating property prices.
